@@ -1,12 +1,17 @@
 <!-- Profile README for AbdoAhmed666 -->
 
 <p align="center">
+  <img 
+    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=2500&pause=800&color=00E0FF&center=true&vCenter=true&width=700&lines=👋+Hi%2C+I'm+Abdelrhman+Ahmed;AI+Engineer+%7C+IoT+%26+Deep+Learning;Creating+Intelligent+Systems+for+Real+World+Impact" 
+    alt="Typing Animation" 
+  />
+</p>
+
+
+<p align="center">
   <img src="panner.png" alt="Abdelrhman Ahmed Banner" width="100%">
 </p>
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=24&duration=3000&pause=1000&color=00BFFF&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Abdelrhman+Ahmed;AI+Engineer+%7C+IoT+%26+Deep+Learning;Building+Smart+Systems+with+ML+Integration" alt="Typing SVG" />
-</p>
 
 
 ---
