@@ -1,7 +1,7 @@
 <!-- Profile README for AbdoAhmed666 -->
 
 <p align="center">
-  <img src="banner.png" alt="Abdelrhman Ahmed Banner" width="100%">
+  <img src="panner.png" alt="Abdelrhman Ahmed Banner" width="100%">
 </p>
 
 <p align="center">
@@ -16,7 +16,7 @@ I love developing projects that combine **AI models**, **Edge devices**, and **C
 
 📍 Alexandria, Egypt  
 📧 **abdoibrahim122000@gmail.com**  
-🔗 [LinkedIn](https://linkedin.com/in/abdelrhman-ahmed) • [GitHub](https://github.com/AbdoAhmed666)
+🔗 [LinkedIn](https://www.linkedin.com/in/abdelrhman-ahmed-92a432260/) • [GitHub](https://github.com/AbdoAhmed666)
 
 ---
 
